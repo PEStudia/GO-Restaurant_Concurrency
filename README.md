@@ -53,3 +53,6 @@ W kodzie wykorzystywana jest współbieżność za pomocą gorutyn w celu równo
 - Gorutyny dla każdego klienta pozwalają na jednoczesne obsługiwania wielu klientów w restauracji.
 - Kucharze i kelnerzy działają równolegle, co umożliwia jednoczesne przygotowywanie i dostarczanie zamówień.
 
+# Autor
+
+### Piotr Ernest
