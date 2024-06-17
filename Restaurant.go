@@ -59,7 +59,7 @@ func main() {
 
 	// Oczekiwanie na wyjście wszystkich klientów
 	wg.Wait()
-	fmt.Println("\n**** Restauracja jest zamykana. Wszyscy klienci opuścili lokal. ****")
+	fmt.Println("\n**** Restauracja jest zamyknięta. Wszyscy klienci opuścili lokal. ****")
 }
 
 // Symuluje klienta w restauracji
